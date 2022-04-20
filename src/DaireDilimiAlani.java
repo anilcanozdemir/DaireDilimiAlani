@@ -16,5 +16,6 @@ public class DaireDilimiAlani {
         double r=input.nextDouble();
         System.out.print("Merkez acisinin olcusunu giriniz:");
         double a=input.nextDouble();
+        System.out.println("Alan:"+(Math.PI*r*r*a/360));
     }
 }
